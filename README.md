@@ -1,4 +1,4 @@
-# Lune
+# Luneko ($LUNE) - A BEP-20 Token
 There’s been a plethora of animal-themed tokens across both the BSC and ETH networks in the past few weeks, and there’s no doubt been a good bit of time dedicated to figuring out which among the veritable petting crew of cryptocurrency newcomers is worth giving a forever-home. Today’s post is going to make the (possibly ever so slightly biased) case for the token offered by us at https://luneko.co.
 
 Fair Launch, Limited Supply, Small Cap.
